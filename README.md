@@ -1,6 +1,6 @@
 👋 Hi, I’m Claes Adamsson (@cladam)
 
-I'm an experienced IT Professional with skills in Software Development, Architecture, and System Engineering. I'm a strong proponent of DevOps principles and a believer in Cloud Technology, always looking for ways to help teams work better together.
+I'm an experienced IT Professional (since late nineties) from southern Sweden. I like to design, architect and build things.
 
 🌱 What I’m Working On
 
