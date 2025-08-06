@@ -33,6 +33,6 @@ I'm always open to collaborating on tools that improve the lives of developers. 
 
 📫 How to reach me...
 
-LinkedIn: linkedin.com/in/cadamsson
+LinkedIn: [linkedin.com/in/cadamsson](https://linkedin.com/in/cadamsson)
 
-My Personal Site: cladam.github.io/cladam/
+My Personal Site: [cladam.github.io](https://cladam.github.io)
