@@ -8,7 +8,7 @@ I'm currently focused on building open-source developer tools that codify best p
 
 My main projects right now are:
 
-[tbdflow](https://github.): A CLI written in Rust to streamline and safeguard Git workflows for teams practicing Trunk-Based Development.
+[tbdflow](https://github.com/cladam/tbdflow): A CLI written in Rust to streamline and safeguard Git workflows for teams practicing Trunk-Based Development.
 
 
 👀 I’m interested in...
